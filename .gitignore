@@ -1,0 +1,7 @@
+.svn
+.vscode
+trace.txt
+.clang-format
+.gdbinit
+.minix-src/
+output.txt
